@@ -1,0 +1,8 @@
+br\edu\ifnmg\ExemploBridgeEnviar\Encriptada2.class
+br\edu\ifnmg\ExemploBridgeEnviar\BateriaDeTestes.class
+br\edu\ifnmg\ExemploBridgeEnviar\Encriptada.class
+br\edu\ifnmg\ExemploBridgeEnviar\ViaEmail.class
+br\edu\ifnmg\ExemploBridgeEnviar\Normal.class
+br\edu\ifnmg\ExemploBridgeEnviar\ViaSMS.class
+br\edu\ifnmg\ExemploBridgeEnviar\Mensagem.class
+br\edu\ifnmg\ExemploBridgeEnviar\Mensageiro.class

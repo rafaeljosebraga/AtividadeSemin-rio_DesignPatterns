@@ -1,0 +1,10 @@
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\FabricaVeiculoEletrico.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\FabricaVeiculo.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\flex\CarroFlex.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\Moto.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\FabricaVeiculoFlex.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\eletrico\MotoEletrica.class
+AbstractFactoryExemploFabricaVeiculos.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\flex\MotoFlex.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\Carro.class
+br\edu\ifnmg\abstractfactoryexemplofabricaveiculos\eletrico\CarroEletrico.class
